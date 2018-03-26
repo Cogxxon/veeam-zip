@@ -1,0 +1,7 @@
+VEEAM BACKUP DOCUMENTAION:
+=========================
+
+KB: o-» https://stackoverflow.com/questions/6239647/using-powershell-credentials-without-being-prompted-for-a-password/6240319
+    o-» https://stackoverflow.com/questions/6239647/using-powershell-credentials-without-being-prompted-for-a-password
+    o-» https://helpcenter.veeam.com/docs/backup/powershell/start-vbrzip.html?ver=95
+    o-»

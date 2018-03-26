@@ -1,0 +1,8 @@
+vmname,bk_location,autodelete ,action
+VDRVNAAPP01,\\dr-nas01\DR_VNA_Backups,in3days,backup
+VDRVNAAPP02,\\dr-nas01\DR_VNA_Backups,in3days,backup
+VDRVNAVW01,\\dr-nas01\DR_VNA_Backups,in3days,backup
+VDRVNAVW02,\\dr-nas01\DR_VNA_Backups,in3days,backup
+VDRVNAASX01,\\dr-nas01\DR_VNA_Backups,in3days,backup
+VDRVNAXDS01,\\dr-nas01\DR_VNA_Backups,in3days,backup
+VDRTSTVNA01,\\dr-nas01\DR_VNA_Backups,in3days,backup
