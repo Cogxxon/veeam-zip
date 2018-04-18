@@ -5,5 +5,6 @@
 
 ### 1. Contents
 ### 2. Script File Usage
+* veeam-zip.ps1
 ### 3. Permissions
 ### 4. How to use
