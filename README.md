@@ -23,7 +23,7 @@
 ```
 | Switches      | Type          |
 | ------------- | ------------- |
-| vza_backup    | ```powershell Bool, $true or $false ``` | 
+| vza_backup    | powershell Bool, $true or $false | 
 | Retention     | Content Cell  |
 ```
 
