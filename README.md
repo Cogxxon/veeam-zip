@@ -17,15 +17,11 @@
 > --or--
 > veeam-zip -vza_backup -retention 7
 > ```
-**Switches** 
- - vza_backup: Type=bool
- - Retention: type
-```
+#### 2.1 **Switches** 
 | Switches      | Type                                    |
 | ------------- | --------------------------------------- |
-| vza_backup    | powershell [Bool], $true or $false      | 
-| Retention     | Content Cell                            |
-```
+| vza_backup    | **[Bool]**, *$true* or *$false*     | 
+| Retention     | **[int32]**                            |
 
 ### 3. Permissions
 ### 4. How to use
