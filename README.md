@@ -20,14 +20,14 @@
 **Switches** 
  - vza_backup: Type=bool
  - Retention: type
-
-| First Header  | Second Header |
+```
+| Switches      | Type          |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| vza_backup    | ```powershell Bool, $true or $false ``` | 
+| Retention     | Content Cell  |
+```
 
 ### 3. Permissions
 ### 4. How to use
 ```powershell
 ```
-
