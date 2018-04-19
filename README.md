@@ -20,9 +20,11 @@
 **Switches** 
  - vza_backup: Type=bool
  - Retention: type
-|  Variable  | Type
-|--|--|
-| vza_backup | [bool] |
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ### 3. Permissions
 ### 4. How to use
