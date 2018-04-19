@@ -8,3 +8,11 @@
 * veeam-zip.ps1
 ### 3. Permissions
 ### 4. How to use
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
