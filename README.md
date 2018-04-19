@@ -17,11 +17,11 @@
 > --or--
 > veeam-zip -vza_backup -retention 7
 > ```
-#### 2.1 **Switches** 
-| Switches      | Type                                    |
-| ------------- | --------------------------------------- |
-| vza_backup    | **[Bool]**, *$true* or *$false*     | 
-| Retention     | **[int32]**                            |
+> #### 2.1 **Switches** 
+> | Switches      | Type                                    |
+> | ------------- | --------------------------------------- |
+> | vza_backup    | **[Bool]**, *$true* or *$false*     | 
+> | Retention     | **[int32]**                            |
 
 ### 3. Permissions
 ### 4. How to use
